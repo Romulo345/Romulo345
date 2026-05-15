@@ -1,6 +1,6 @@
 # 👨‍💻 Romulo Teixeira
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Full+Stack+Developer;Apaixonado+por+Tecnologia;Construindo+soluções+reais+com+código)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DF2700&size=24&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Full+Stack+Developer;Apaixonado+por+Tecnologia;Construindo+soluções+reais+com+código)
 
 ---
 
@@ -15,6 +15,10 @@ Atuo desenvolvendo soluções e analisando dados para gerar impacto real, sempre
 
 ---
 
+## 📫 Conecte comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](linkedin.com/in/romulo-teixeira-34236828b)
+
 ## ⚙️ Tecnologias & Ferramentas
 
 ### 💻 Desenvolvimento
@@ -22,10 +26,17 @@ Atuo desenvolvendo soluções e analisando dados para gerar impacto real, sempre
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=database)
+
+### ☁️ CLOUD 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
 
 ---
 
@@ -40,11 +51,7 @@ Atuo desenvolvendo soluções e analisando dados para gerar impacto real, sempre
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romulo345&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romulo345&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=Romulo345&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Romulo345&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff)
 ---
 
 ## 🧩 Atualmente estudando

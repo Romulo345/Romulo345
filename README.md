@@ -18,8 +18,8 @@ Atuo desenvolvendo soluções e analisando dados para gerar impacto real, sempre
 
 ## 📫 Conecte comigo
 
-<p align="center">
-  <a href="linkedin.com/in/romulo-teixeira-34236828b" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/romulo-teixeira-34236828b/?skipRedirect=true">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>

@@ -56,7 +56,7 @@ Atuo desenvolvendo soluções e analisando dados para gerar impacto real, sempre
 
 ## 📊 Estatísticas
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Romulo345&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff)
+![GitHub Streak](https://streak-stats.demolab.com?user=RomuloLab&theme=dark&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=ffffff&dates=ffffff)
 ---
 
 ## 🧩 Atualmente estudando

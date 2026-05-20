@@ -8,7 +8,7 @@
 
 💻 Estudante de Engenharia da Computação  
 📍 Contagem - MG, Brasil  
-🚀 Data Analyst & Full Stack Developer  
+🚀 Full Stack Developer  
 
 Sou movido por desafios e apaixonado por tecnologia.  
 Atuo desenvolvendo soluções e analisando dados para gerar impacto real, sempre buscando evolução constante e excelência técnica.
